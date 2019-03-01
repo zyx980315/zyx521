@@ -1,0 +1,15 @@
+2019-03-01 19:03:07,535 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 19:03:07,535 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-01 19:03:10,293 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-01 19:03:11,027 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-03-01 19:03:12,453 - BasePage - INFO - zyx521 被输入
+2019-03-01 19:03:12,594 - BasePage - INFO - zyx19980315 被输入
+2019-03-01 19:03:12,695 - BasePage - INFO - 成功点击
+2019-03-01 19:03:21,783 - BasePage - ERROR - <pageobjects.luntan_homepage.HomePage object at 0x000002499AF30AC8>页面元素未找到('css selector', '.fl_tb h2 a')
+2019-03-01 19:03:21,784 - BasePage - ERROR - Failed to be clicked
+2019-03-01 19:03:27,806 - BasePage - ERROR - <pageobjects.luntan_homepage.HomePage object at 0x000002499AF30AC8>页面元素未找到('id', 'subject')
+2019-03-01 19:03:27,806 - BrowserEngine - INFO - 现在关闭浏览器
+2019-03-01 19:03:29,944 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 19:03:29,945 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-01 19:03:32,518 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-01 19:03:33,194 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php

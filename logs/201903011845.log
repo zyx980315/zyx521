@@ -1,0 +1,7 @@
+2019-03-01 18:45:05,051 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 18:45:05,053 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-01 18:45:14,912 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-01 18:45:16,767 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-03-01 18:45:18,152 - BasePage - INFO - zyx521 被输入
+2019-03-01 18:45:18,267 - BasePage - INFO - zyx19980315 被输入
+2019-03-01 18:45:18,357 - BasePage - INFO - 成功点击

@@ -1,0 +1,18 @@
+2019-03-01 18:58:08,109 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 18:58:08,109 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-01 18:58:10,596 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-01 18:58:11,290 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-03-01 18:58:12,599 - BasePage - INFO - zyx521 被输入
+2019-03-01 18:58:12,723 - BasePage - INFO - zyx19980315 被输入
+2019-03-01 18:58:12,798 - BasePage - INFO - 成功点击
+2019-03-01 18:58:16,358 - BasePage - INFO - 成功点击
+2019-03-01 18:58:16,602 - BasePage - INFO - 张彦鑫 被输入
+2019-03-01 18:58:16,865 - BasePage - INFO - 我爱nyx，爱他的美，然后没了 被输入
+2019-03-01 18:58:17,201 - BasePage - INFO - Had take screenshort and save to folder: /screenshots
+2019-03-01 18:58:18,825 - BasePage - INFO - 成功点击
+2019-03-01 18:58:19,066 - BasePage - INFO - 12356478996 被输入
+2019-03-01 18:58:19,472 - BasePage - INFO - 成功点击
+2019-03-01 18:58:24,989 - BasePage - INFO - 成功点击
+2019-03-01 18:58:27,990 - BrowserEngine - INFO - 现在关闭浏览器
+2019-03-01 18:58:30,112 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 18:58:30,112 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php

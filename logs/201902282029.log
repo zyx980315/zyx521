@@ -1,0 +1,73 @@
+2019-02-28 20:29:55,577 - BrowserEngine - INFO - 读取浏览器成功
+2019-02-28 20:29:55,577 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-02-28 20:29:57,901 - BrowserEngine - INFO - 浏览器为谷歌
+2019-02-28 20:30:08,358 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-02-28 20:30:09,653 - BasePage - INFO - zyx521 被输入
+2019-02-28 20:30:09,772 - BasePage - INFO - zyx19980315 被输入
+2019-02-28 20:30:09,865 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:30:30,500 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:30:30,628 - BasePage - INFO - 张彦鑫 被输入
+2019-02-28 20:30:30,807 - BasePage - INFO - 我爱nyx，爱他的美，然后没了 被输入
+2019-02-28 20:30:31,149 - BasePage - INFO - Had take screenshort and save to folder: /screenshots
+2019-02-28 20:30:41,668 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:30:41,834 - BasePage - INFO - 12356478996 被输入
+2019-02-28 20:30:42,125 - BasePage - INFO - 发表回复 is be clicked
+2019-02-28 20:30:57,540 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:31:00,541 - BrowserEngine - INFO - 现在关闭浏览器
+2019-02-28 20:31:02,757 - BrowserEngine - INFO - 读取浏览器成功
+2019-02-28 20:31:02,758 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-02-28 20:31:05,120 - BrowserEngine - INFO - 浏览器为谷歌
+2019-02-28 20:31:15,578 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-02-28 20:31:16,855 - BasePage - INFO - admin 被输入
+2019-02-28 20:31:16,959 - BasePage - INFO - admin 被输入
+2019-02-28 20:31:17,053 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:31:37,633 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:31:37,741 - BasePage - INFO -  is be clicked
+2019-02-28 20:31:38,140 - BasePage - INFO - 删除 is be clicked
+2019-02-28 20:31:48,568 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:31:48,767 - BasePage - INFO - 管理中心 is be clicked
+2019-02-28 20:32:27,381 - BasePage - INFO - 论坛 is be clicked
+2019-02-28 20:32:27,586 - BasePage - INFO - 添加新版块 is be clicked
+2019-02-28 20:32:27,763 - BasePage - INFO - 987 被输入
+2019-02-28 20:32:28,117 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:32:41,556 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:32:49,744 - BasePage - INFO - zyx521 被输入
+2019-02-28 20:32:49,867 - BasePage - INFO - zyx19980315 被输入
+2019-02-28 20:32:49,955 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:33:00,400 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:33:15,933 - BasePage - ERROR - <pageobjects.luntan_homepage.HomePage object at 0x0000015F162E8F60>页面元素未找到('css selector', 'table tbody .fl_row:nth-last-child(2) h2 a')
+2019-02-28 20:33:15,933 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:33:21,076 - BasePage - INFO - 987 被输入
+2019-02-28 20:33:21,209 - BasePage - INFO - nyx5211314521 被输入
+2019-02-28 20:33:35,847 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:33:36,004 - BasePage - INFO - 你是啥子嘛？三十多吃豆腐 被输入
+2019-02-28 20:33:36,297 - BasePage - INFO - 发表回复 is be clicked
+2019-02-28 20:33:36,298 - BrowserEngine - INFO - 现在关闭浏览器
+2019-02-28 20:33:38,521 - BrowserEngine - INFO - 读取浏览器成功
+2019-02-28 20:33:38,521 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-02-28 20:33:40,873 - BrowserEngine - INFO - 浏览器为谷歌
+2019-02-28 20:33:51,294 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-02-28 20:33:52,598 - BasePage - INFO - zyx521 被输入
+2019-02-28 20:33:52,720 - BasePage - INFO - zyx19980315 被输入
+2019-02-28 20:33:52,817 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:34:03,116 - BrowserEngine - INFO - 现在关闭浏览器
+2019-02-28 20:34:05,271 - BrowserEngine - INFO - 读取浏览器成功
+2019-02-28 20:34:05,272 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-02-28 20:34:07,698 - BrowserEngine - INFO - 浏览器为谷歌
+2019-02-28 20:34:18,113 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-02-28 20:34:19,399 - BasePage - INFO - zyx521 被输入
+2019-02-28 20:34:19,523 - BasePage - INFO - zyx19980315 被输入
+2019-02-28 20:34:19,618 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:34:40,200 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:34:50,554 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:34:55,634 - BasePage - ERROR - Failed to 鼠标悬停
+2019-02-28 20:35:10,925 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:35:21,330 - BasePage - INFO - what's your favorite game 被输入
+2019-02-28 20:35:21,424 - BasePage - INFO - cf 被输入
+2019-02-28 20:35:21,524 - BasePage - INFO - lol 被输入
+2019-02-28 20:35:21,650 - BasePage - INFO - dnf 被输入
+2019-02-28 20:35:26,969 - BasePage - INFO - game111111111111111111111111111 被输入
+2019-02-28 20:35:30,199 - BasePage - INFO - 发起投票 is be clicked
+2019-02-28 20:35:44,797 - BasePage - INFO -  is be clicked
+2019-02-28 20:36:00,409 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:36:10,665 - BrowserEngine - INFO - 现在关闭浏览器

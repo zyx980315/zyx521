@@ -1,0 +1,20 @@
+2019-02-28 20:38:45,684 - BrowserEngine - INFO - 读取浏览器成功
+2019-02-28 20:38:45,685 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-02-28 20:38:47,984 - BrowserEngine - INFO - 浏览器为谷歌
+2019-02-28 20:38:58,416 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-02-28 20:38:59,669 - BasePage - INFO - zyx521 被输入
+2019-02-28 20:38:59,816 - BasePage - INFO - zyx19980315 被输入
+2019-02-28 20:38:59,930 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:39:20,561 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:39:30,924 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:39:35,984 - BasePage - ERROR - Failed to 鼠标悬停
+2019-02-28 20:39:51,300 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:40:01,707 - BasePage - INFO - what's your favorite game 被输入
+2019-02-28 20:40:01,808 - BasePage - INFO - cf 被输入
+2019-02-28 20:40:01,913 - BasePage - INFO - lol 被输入
+2019-02-28 20:40:02,012 - BasePage - INFO - dnf 被输入
+2019-02-28 20:40:07,270 - BasePage - INFO - game111111111111111111111111111 被输入
+2019-02-28 20:40:10,486 - BasePage - INFO - 发起投票 is be clicked
+2019-02-28 20:40:26,091 - BasePage - INFO -  is be clicked
+2019-02-28 20:40:41,602 - BasePage - ERROR - Failed to be clicked
+2019-02-28 20:40:51,870 - BrowserEngine - INFO - 现在关闭浏览器

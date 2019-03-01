@@ -1,0 +1,33 @@
+2019-03-01 18:55:26,920 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 18:55:26,920 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-01 18:55:29,755 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-01 18:55:30,385 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-03-01 18:55:31,693 - BasePage - INFO - zyx521 被输入
+2019-03-01 18:55:31,816 - BasePage - INFO - zyx19980315 被输入
+2019-03-01 18:55:31,891 - BasePage - INFO - 成功点击
+2019-03-01 18:55:35,432 - BasePage - INFO - 成功点击
+2019-03-01 18:55:35,764 - BasePage - INFO - 张彦鑫 被输入
+2019-03-01 18:55:36,059 - BasePage - INFO - 我爱nyx，爱他的美，然后没了 被输入
+2019-03-01 18:55:36,370 - BasePage - INFO - Had take screenshort and save to folder: /screenshots
+2019-03-01 18:55:37,883 - BasePage - INFO - 成功点击
+2019-03-01 18:55:38,141 - BasePage - INFO - 12356478996 被输入
+2019-03-01 18:55:38,562 - BasePage - INFO - 成功点击
+2019-03-01 18:55:43,976 - BasePage - INFO - 成功点击
+2019-03-01 18:55:46,976 - BrowserEngine - INFO - 现在关闭浏览器
+2019-03-01 18:55:50,187 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 18:55:50,188 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-01 18:55:54,186 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-01 18:55:54,806 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-03-01 18:55:56,108 - BasePage - INFO - admin 被输入
+2019-03-01 18:55:56,198 - BasePage - INFO - admin 被输入
+2019-03-01 18:55:56,279 - BasePage - INFO - 成功点击
+2019-03-01 18:55:59,759 - BasePage - INFO - 成功点击
+2019-03-01 18:55:59,980 - BasePage - INFO - 成功点击
+2019-03-01 18:56:00,571 - BasePage - INFO - 成功点击
+2019-03-01 18:56:01,227 - BasePage - INFO - 成功点击
+2019-03-01 18:56:01,498 - BasePage - INFO - 成功点击
+2019-03-01 18:56:03,802 - BasePage - ERROR - <pageobjects.luntan_homepage.HomePage object at 0x0000021275890EF0>页面元素未找到('link text', '论坛')
+2019-03-01 18:56:03,803 - BasePage - ERROR - Failed to be clicked
+2019-03-01 18:56:03,805 - BrowserEngine - INFO - 现在关闭浏览器
+2019-03-01 18:56:06,070 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-01 18:56:06,070 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php

@@ -1,0 +1,11 @@
+2019-02-28 20:19:12,316 - BrowserEngine - INFO - 读取浏览器成功
+2019-02-28 20:19:12,316 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-02-28 20:19:14,661 - BrowserEngine - INFO - 浏览器为谷歌
+2019-02-28 20:19:25,085 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-02-28 20:19:26,351 - BasePage - INFO - zyx521 被输入
+2019-02-28 20:19:26,493 - BasePage - INFO - zyx19980315 被输入
+2019-02-28 20:19:26,611 - BasePage - INFO - 登录 is be clicked
+2019-02-28 20:19:37,050 - BasePage - INFO - haotest 被输入
+2019-02-28 20:19:39,260 - BasePage - INFO -  is be clicked
+2019-02-28 20:19:45,659 - BasePage - INFO - Had take screenshort and save to folder: /screenshots
+2019-02-28 20:19:50,661 - BrowserEngine - INFO - 现在关闭浏览器
